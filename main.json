@@ -1,0 +1,34 @@
+{
+    "strangeProducts":[
+        {
+            "name": "Cat Butt Tissue Holder",
+            "price": 34.94,
+            "details": "These cats are just trying to help out by keeping your tissue close at hand! Standard square tissue box fits inside.",
+            "image": "cat.jpg"
+        },
+        {
+            "name": "T-Rex Garden Gnome",
+            "price": 24.99,
+            "details": "The terrifying T-Rex is a defender of humanity with a taste for gnomes, a funny take on the conventional garden gnome. It's a fun addition to any landscaping, but looks great in your home, garden or office, too.",
+            "image": "t-rex.jpg"
+        },
+        {
+            "name": "Desktop Refridgerator",
+            "price": 38.00,
+            "details": "Now when you say you need a cold one, you can mean it literally, with one (1) single refrigerated beverage at your fingertips.",
+            "image": "fridge.jpg"
+        },
+        {
+            "name": "Nicolas Cage Sequin Pillowcase",
+            "price": 24.95,
+            "details": "The only thing better than a festive red sparkly pillowcase is one that morphs into Nicolas Cage's face with the satisfying swipe of your hand.",
+            "image": "niccage.jpg"
+        },
+        {
+            "name": "Hand Squirrel",
+            "price": 6.50,
+            "details": "While it's all well and good to have a variety of puppets at your disposal, few things rival this strangely-realistic hand squirrel.",
+            "image": "squirell.jpg"
+        }
+    ]
+}
